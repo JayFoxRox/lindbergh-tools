@@ -1,0 +1,10 @@
+Baseboard-Emulation
+gl-hotpatch
+Input-Hook
+Input-Remap
+jvs-hotpatch
+
+# Don't add temp files
+*.o
+*~
+a.out

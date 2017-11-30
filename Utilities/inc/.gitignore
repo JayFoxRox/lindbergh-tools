@@ -1,0 +1,6 @@
+# These files are copyrighted by sega, so they are removed:
+segaapi.h
+segadef.h
+segaeax.h
+segaerr.h
+libsegaapi.so
